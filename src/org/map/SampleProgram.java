@@ -16,6 +16,7 @@ public static void main(String[] args) {
 	a.put(20, "selenium");
 	System.out.println(a);
 	int size = a.size();
+	System.out.println("karun");
 	System.out.println(size);
 	String string = a.get(30);
 	System.out.println(string);
